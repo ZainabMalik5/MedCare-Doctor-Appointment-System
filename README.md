@@ -1,4 +1,5 @@
- MEDCARE-HOSPITAL MANAGEMENT SYSTEM
+         # MEDCARE-HOSPITAL MANAGEMENT SYSTEM
+ 
 • Developed a Hospital Management System with real-time doctor appointment booking and notifications.
 • Designed a role-based multi-login system for patients, doctors, and administrators ensuring secure access.
 • Implemented Google Sign-In using Firebase Authentication with OAuth 2.0 and JWT for secure user login.
